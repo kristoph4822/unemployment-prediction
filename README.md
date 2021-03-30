@@ -1,2 +1,1 @@
-# unemployment-rate-prediction
-Regression model calculating unemployment rate based on multiple macroeconomic indicators
+Użyto danych z GUSu dla Polski z lat 2000-2020.
